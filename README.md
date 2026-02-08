@@ -9,12 +9,12 @@
 
 ---
 
-## 🌟 Professional Summary
+## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="25"/> **Professional Summary**
 Experienced professional with 4+ years of expertise across data engineering, data analysis, software engineering, and cybersecurity. Skilled in developing robust data infrastructures, extracting actionable insights from complex datasets, and building secure, scalable software solutions. Adept at optimizing processes, enhancing decision-making through data-driven strategies, and applying cybersecurity principles to protect information systems.
 
 ---
 
-## 🔧 Skills & Technologies
+## <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="25"/> **Skills & Technologies**
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
