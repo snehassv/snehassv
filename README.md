@@ -1,7 +1,7 @@
 # Hi, I'm Sneha 👋
 
 **Data Engineer | Software Engineer | Cybersecurity Enthusiast**  
-📍 Maryland, US | 4+ years experience in Data Engineering, Data Analyzing, and Software Engineering 
+📍 USA | 4+ years experience in Data Engineering, Data Analyzing, and Software Engineering 
 
 ---
 
@@ -10,12 +10,44 @@ Experienced professional with 4+ years of expertise across data engineering, dat
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Skills & Technologies
 
+## 🔧 Skills & Technologies
+
+### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-100%25-brightgreen?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=mysql)
+![PL/SQL](https://img.shields.io/badge/PL--SQL-Expert-orange?style=for-the-badge&logo=oracle)
+![Java](https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-Expert-purple?style=for-the-badge&logo=html5)
+![Shell](https://img.shields.io/badge/Shell-Expert-blue?style=for-the-badge&logo=gnu-bash)
+![DAX](https://img.shields.io/badge/DAX-Intermediate-yellow?style=for-the-badge)
+![YAML](https://img.shields.io/badge/YAML-Intermediate-lightgrey?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/SOQL-Intermediate-lightblue?style=for-the-badge)
+
+### Cloud & Data Engineering
+![GCP](https://img.shields.io/badge/GCP-Expert-yellow?style=for-the-badge&logo=google-cloud)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Expert-blue?style=for-the-badge&logo=google)
-**Languages & Scripting:** Python, SQL (BigQuery, SAP HANA, Oracle), DAX, YAML, SOQL, Java, HTML, Shell  
-**Platforms & Frameworks:** GCP (BigQuery, Cloud Storage, Composer/Airflow, IAM, Dataflow, BQDTS, Kubernetes, Pub/Sub, Dataproc), Salesforce, MuleSoft, dbt, Postman, pgAdmin4, GitHub, SQLFluff, Alation, Confluence, Azure DevOps, VSCode, Glean Agents, Tableau  
+![Cloud Composer](https://img.shields.io/badge/Composer/Airflow-Expert-orange?style=for-the-badge&logo=apache-airflow)
+![Dataflow](https://img.shields.io/badge/Dataflow-Expert-red?style=for-the-badge)
+![Dataproc](https://img.shields.io/badge/Dataproc-Expert-green?style=for-the-badge)
+![Pub/Sub](https://img.shields.io/badge/Pub--Sub-Expert-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-lightblue?style=for-the-badge)
+![BQDTS](https://img.shields.io/badge/BQDTS-Expert-lightgrey?style=for-the-badge)
+
+### Tools & Platforms
+![Salesforce](https://img.shields.io/badge/Salesforce-Expert-blue?style=for-the-badge&logo=salesforce)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-Expert-purple?style=for-the-badge)
+![dbt](https://img.shields.io/badge/dbt-Expert-red?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Expert-orange?style=for-the-badge&logo=tableau)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-black?style=for-the-badge&logo=github)
+![SQLFluff](https://img.shields.io/badge/SQLFluff-Expert-blue?style=for-the-badge)
+![Alation](https://img.shields.io/badge/Alation-Expert-lightblue?style=for-the-badge)
+![Confluence](https://img.shields.io/badge/Confluence-Expert-blue?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-Expert-lightblue?style=for-the-badge)
+![Glean Agents](https://img.shields.io/badge/Glean-Agents-Expert-orange?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-Expert-orange?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Expert-blue?style=for-the-badge&logo=azuredevops)
 
 ---
 
@@ -42,15 +74,6 @@ Experienced professional with 4+ years of expertise across data engineering, dat
 ### **IoT-based Smart Irrigation System**  
 - Built an IoT system using NodeMCU, sensors, relays, and motors to automatically water plants based on soil moisture.  
 - Integrated real-time notifications via IFTTT for efficiency and plant care.
-
-## 🏆 Certifications
-
-- Google Cloud Professional Data Engineer | Jun 2022  
-- Introduction to Cyberattacks – NYU | Mar 2022  
-- Usable Security – UMD | Mar 2022  
-- Ethical Hacking – Great Learning | Feb 2022  
-- Cross-Site Scripting (XSS) 101 – SafeCode | Feb 2022  
-- File Permissions 101: Linux & OSX – SafeCode | Feb 2022  
 
 ---
 
