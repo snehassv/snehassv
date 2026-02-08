@@ -17,65 +17,39 @@ Experienced professional with 4+ years of expertise across data engineering, dat
 ## 🔧 Skills & Technologies
 
 ### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-100%25-brightgreen?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=mysql)
-![PL/SQL](https://img.shields.io/badge/PL--SQL-Expert-orange?style=for-the-badge&logo=oracle)
-![Java](https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML-Expert-purple?style=for-the-badge&logo=html5)
-![Shell](https://img.shields.io/badge/Shell-Expert-blue?style=for-the-badge&logo=gnu-bash)
-![DAX](https://img.shields.io/badge/DAX-Intermediate-yellow?style=for-the-badge)
-![YAML](https://img.shields.io/badge/YAML-Intermediate-lightgrey?style=for-the-badge)
-![SOQL](https://img.shields.io/badge/SOQL-Intermediate-lightblue?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=mysql&logoColor=00758F)
+![PL/SQL](https://img.shields.io/badge/-PL--SQL-333?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=007396)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Shell](https://img.shields.io/badge/-Shell-333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![DAX](https://img.shields.io/badge/-DAX-333?style=for-the-badge)
+![YAML](https://img.shields.io/badge/-YAML-333?style=for-the-badge)
+![SOQL](https://img.shields.io/badge/-SOQL-333?style=for-the-badge)
 
 ### Cloud & Data Engineering
-![GCP](https://img.shields.io/badge/GCP-Expert-yellow?style=for-the-badge&logo=google-cloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-Expert-blue?style=for-the-badge&logo=google)
-![Cloud Composer](https://img.shields.io/badge/Composer/Airflow-Expert-orange?style=for-the-badge&logo=apache-airflow)
-![Dataflow](https://img.shields.io/badge/Dataflow-Expert-red?style=for-the-badge)
-![Dataproc](https://img.shields.io/badge/Dataproc-Expert-green?style=for-the-badge)
-![Pub/Sub](https://img.shields.io/badge/Pub--Sub-Expert-blue?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-lightblue?style=for-the-badge)
-![BQDTS](https://img.shields.io/badge/BQDTS-Expert-lightgrey?style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-333?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![BigQuery](https://img.shields.io/badge/-BigQuery-333?style=for-the-badge&logo=google-bigquery&logoColor=4285F4)
+![Composer/Airflow](https://img.shields.io/badge/-Airflow-333?style=for-the-badge&logo=apache-airflow&logoColor=017CEE)
+![Dataflow](https://img.shields.io/badge/-Dataflow-333?style=for-the-badge)
+![Dataproc](https://img.shields.io/badge/-Dataproc-333?style=for-the-badge)
+![Pub/Sub](https://img.shields.io/badge/-Pub_Sub-333?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![BQDTS](https://img.shields.io/badge/-BQDTS-333?style=for-the-badge)
 
 ### Tools & Platforms
-![Salesforce](https://img.shields.io/badge/Salesforce-Expert-blue?style=for-the-badge&logo=salesforce)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-Expert-purple?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-Expert-red?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Expert-orange?style=for-the-badge&logo=tableau)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-black?style=for-the-badge&logo=github)
-![SQLFluff](https://img.shields.io/badge/SQLFluff-Expert-blue?style=for-the-badge)
-![Alation](https://img.shields.io/badge/Alation-Expert-lightblue?style=for-the-badge)
-![Confluence](https://img.shields.io/badge/Confluence-Expert-blue?style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VSCode-Expert-lightblue?style=for-the-badge)
-![Glean Agents](https://img.shields.io/badge/Glean-Agents-Expert-orange?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-Expert-orange?style=for-the-badge)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Expert-blue?style=for-the-badge&logo=azuredevops)
-
----
-
-## 🚀 Featured Projects
-
-### **Sales ETL Pipelines**  
-- Architected and optimized 50+ production workflows on GCP, reducing runtime and BigQuery costs by ~30%.  
-- Designed and streamlined end-to-end Airflow (Composer) DAGs with partitioning, clustering, and SQL refactoring.  
-- Led dbt adoption for modular, reusable, and testable data pipelines integrated with CI/CD.
-
-### **Analytics & AI/ML Datasets**  
-- Built ML-ready curated datasets to support predictive analytics and AI pilot initiatives.  
-- Created delta-load mechanisms to avoid full refreshes for high-volume pipelines, improving reliability and efficiency.
-
-### **Image Encryption using RSA Algorithm**  
-- Developed Python program to encrypt and secure images using RSA encryption techniques.  
-- Applied PKI tools like Nessus, RSA PKI, and Cisco Firewall.  
-- Utilized Python libraries OpenCV (cv2), NumPy, Matplotlib for encryption workflows.
-
-### **Currency Denomination Detection (MATLAB)**  
-- Designed and implemented a MATLAB program to detect Indian currency denominations.  
-- Processed data from multiple sources (Oracle, MSSQL, spreadsheets) for accurate detection.
-
-### **IoT-based Smart Irrigation System**  
-- Built an IoT system using NodeMCU, sensors, relays, and motors to automatically water plants based on soil moisture.  
-- Integrated real-time notifications via IFTTT for efficiency and plant care.
+![Salesforce](https://img.shields.io/badge/-Salesforce-333?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
+![MuleSoft](https://img.shields.io/badge/-MuleSoft-333?style=for-the-badge)
+![dbt](https://img.shields.io/badge/-dbt-333?style=for-the-badge&logo=dbt&logoColor=FF6347)
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=for-the-badge&logo=tableau&logoColor=E97627)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=181717)
+![SQLFluff](https://img.shields.io/badge/-SQLFluff-333?style=for-the-badge)
+![Alation](https://img.shields.io/badge/-Alation-333?style=for-the-badge)
+![Confluence](https://img.shields.io/badge/-Confluence-333?style=for-the-badge&logo=confluence&logoColor=0052CC)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Glean Agents](https://img.shields.io/badge/-Glean-333?style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-333?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
 
 ---
 
