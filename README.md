@@ -12,8 +12,6 @@ Experienced professional with 4+ years of expertise across data engineering, dat
 
 ## 🔧 Skills & Technologies
 
-## 🔧 Skills & Technologies
-
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-100%25-brightgreen?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=mysql)
