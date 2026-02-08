@@ -7,4 +7,4 @@ Data Engineer | GCP | BigQuery | Airflow | Python | dbt
 Python | SQL | PL/SQL | dbt | Airflow | BigQuery | Cloud Composer | GCP
 
 📊 GitHub Stats:
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehassv&show_icons=true&theme=radical)
