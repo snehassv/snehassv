@@ -17,25 +17,21 @@ Experienced professional with 4+ years of expertise across data engineering, dat
 ## 🔧 Skills & Technologies
 
 ### Languages & Scripting
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=mysql)
-![PL/SQL](https://img.shields.io/badge/-PL--SQL-333?style=for-the-badge&logo=oracle)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
-![Shell](https://img.shields.io/badge/-Shell-333?style=for-the-badge&logo=gnu-bash)
-![DAX](https://img.shields.io/badge/-DAX-333?style=for-the-badge&logo=microsoft)
-![YAML](https://img.shields.io/badge/-YAML-333?style=for-the-badge&logo=yaml)
-![SOQL](https://img.shields.io/badge/-SOQL-333?style=for-the-badge&logo=salesforce)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=for-the-badge&logo=oracle)
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash)
+![SOQL](https://img.shields.io/badge/-SOQL-05122A?style=for-the-badge&logo=salesforce)
+![YAML](https://img.shields.io/badge/-YAML-05122A?style=for-the-badge&logo=yaml)
 
 ### Cloud & Data Engineering
-![GCP](https://img.shields.io/badge/-GCP-333?style=for-the-badge&logo=google-cloud)
-![BigQuery](https://img.shields.io/badge/-BigQuery-333?style=for-the-badge&logo=google-bigquery)
-![Composer/Airflow](https://img.shields.io/badge/-Airflow-333?style=for-the-badge&logo=apache-airflow)
-![Dataflow](https://img.shields.io/badge/-Dataflow-333?style=for-the-badge&logo=google)
-![Dataproc](https://img.shields.io/badge/-Dataproc-333?style=for-the-badge&logo=google)
-![Pub/Sub](https://img.shields.io/badge/-Pub_Sub-333?style=for-the-badge&logo=google)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes)
-![BQDTS](https://img.shields.io/badge/-BQDTS-333?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=for-the-badge&logo=google-cloud)
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=for-the-badge&logo=google-bigquery)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-05122A?style=for-the-badge&logo=apache-airflow)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=kubernetes)
+![Pub/Sub](https://img.shields.io/badge/-Pub_Sub-05122A?style=for-the-badge&logo=google)
 
 ### Tools & Platforms
 ![Salesforce](https://img.shields.io/badge/-Salesforce-333?style=for-the-badge&logo=salesforce)
