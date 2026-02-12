@@ -42,7 +42,7 @@
 <div align="center">
 
   <!-- Animated Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Transforming%20raw%20data%20into%20strategic%20assets&author=%5BYour+Name%5D" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Transforming%20raw%20data%20into%20strategic%20assets&author=Sneha+Sriram" alt="Quote" />
 
 </div>
 
