@@ -175,20 +175,20 @@ open_to: ["Collaboration", "Full-time Opportunities"]
 
 </div>
 
-<br>
+<!-- <br>-->
 
-<!-- Animated Divider -->
+<!-- Animated Divider 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- Featured Projects Section -->
+<!-- Featured Projects Section 
 <div align="center">
 
   ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
 
   <!-- Project Cards -->
-  <a href="https://github.com/snehassv/project-1">
+  <!--<a href="https://github.com/snehassv/project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=project-1&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff" width="49%" alt="Project 1" />
   </a>
   &nbsp;
@@ -196,9 +196,9 @@ open_to: ["Collaboration", "Full-time Opportunities"]
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=project-2&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff" width="49%" alt="Project 2" />
   </a>
 
-</div>
+</div>-->
 
-<br>
+<!-- <br>-->
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -250,7 +250,7 @@ open_to: ["Collaboration", "Full-time Opportunities"]
   <!-- Discord/Slack Style Status -->
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-d1e29d?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0a0a0a" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-[Your%20City]-d1e29d?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0a0a0a" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Maryland-d1e29d?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0a0a0a" alt="Location" />
 
 </div>
 
