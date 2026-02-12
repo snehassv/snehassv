@@ -1,256 +1,291 @@
-<!-- Animated Header -->
+<!-- 
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║                    DATA ENGINEER PORTFOLIO - GITHUB PROFILE                    ║
+  ║                         Created with ❤️ and lots of ☕                         ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- Animated Header Banner -->
 <div align="center">
-  
-  <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=D1E29D&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Sneha+Sriram;Data+Engineer+%7C+Data+Analyst;Transforming+Data+into+Insights" alt="Typing SVG" />
-  </a>
-
-  <!-- Animated Glow Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:a8c66c,50:d1e29d,100:a8c66c&height=300&section=header&text=Sneha+Sriram&fontSize=70&fontColor=0a0a0a&animation=fadeIn&stroke=0a0a0a&strokeWidth=2" width="100%" alt="Header Banner" />
 </div>
 
-<!-- Profile Views Counter with Glow -->
+<!-- Animated Typing Effect -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehassv&label=Profile%20Views&color=d1e29d&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=D1E29D&center=true&vCenter=true&width=1000&height=60&lines=Data+Engineer+%F0%9F%92%BB;Cloud+Architecture+Specialist+%E2%98%81%EF%B8%8F;Pipeline+Architect+%F0%9F%94%A7;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing Animation" />
+  </a>
+</div>
+
+<!-- Glow Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</div>
+
+<!-- Profile Stats Row -->
+<div align="center">
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=snehassv&style=for-the-badge&color=d1e29d&label=PROFILE+VIEWS&labelColor=0a0a0a" alt="Profile Views" />
+  &nbsp;
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/snehassv?style=for-the-badge&color=d1e29d&labelColor=0a0a0a&logo=github&logoColor=d1e29d" alt="Followers" />
+  &nbsp;
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/snehassv?style=for-the-badge&color=d1e29d&labelColor=0a0a0a&logo=github&logoColor=d1e29d" alt="Stars" />
+
 </div>
 
 <br>
 
-<!-- Animated Intro Section -->
+<!-- Animated Snake Contribution Graph -->
 <div align="center">
-  
-  <!-- 3D Contribution Calendar -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
+</div>
+
+<br>
+
+<!-- Glow Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</div>
+
+<br>
+
+<!-- About Me Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" />
+    &nbsp;About Me&nbsp;
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" />
+  </h2>
+</div>
+
+<div align="center">
+  
+  <!-- Animated Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data+is+the+new+oil%2C+but+like+oil%2C+it%E2%80%99s+valuable+only+when+refined&author=Clive+Humby" alt="Quote" />
 
 </div>
 
 <br>
 
-<!-- About Me Section with Animated Border -->
+<!-- Professional Journey Timeline -->
 <div align="center">
 
-  ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
-</div>
-
-<div align="center">
-
-  <!-- Animated Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Transforming%20raw%20data%20into%20strategic%20assets&author=Sneha+Sriram" alt="Quote" />
-
-</div>
-
-<br>
-
-```yaml
-name: Sneha Sriram
-role: Data Engineer
-location: Maryland, USA
-email: snehasriram.contact@gmail.com
-
-professional_journey:
-  current: "Data Engineer @General Mills"
-  previous:
-    - "Data Analyst @General Mills"
-    - "Software Engineer @Cerner"
-
-expertise:
-  - Building scalable data pipelines
-  - Cloud-native architectures
-  - Real-time analytics
-  - Data warehouse optimization
-
-currently_learning: ["AWS", "Feature Engineering", "MLOps"]
-open_to: ["Collaboration", "Full-time Opportunities"]
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#d1e29d', 'primaryTextColor': '#0a0a0a', 'primaryBorderColor': '#d1e29d', 'lineColor': '#d1e29d', 'secondaryColor': '#141414', 'tertiaryColor': '#0a0a0a'}}}%%
+timeline
+    title Professional Journey
+    2020 : Software Engineer 
+         : Built foundational skills
+         : Discovered passion for data
+    2023 : Data Analyst
+         : Architecting data solutions
+    2024 : Data Engineer
+         : Leading data initiatives
 ```
 
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br>
 
-<!-- Tech Stack Section with Animated Icons -->
+<!-- Skills Matrix -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="Tech" />
+    &nbsp;Tech Arsenal&nbsp;
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="Tech" />
+  </h2>
+</div>
+
+<!-- Animated Skill Icons Grid -->
 <div align="center">
 
-  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Stack
-
-  <!-- Animated Skill Icons -->
-  <h3>Data Engineering</h3>
-  
+  <!-- Programming Languages -->
+  <h3>💻 Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=python,sql,scala,java,bash&theme=dark&perline=5" alt="Languages" />
   </p>
 
-  <h3>Cloud & DevOps</h3>
-  
+  <!-- Data Engineering -->
+  <h3>🗄️ Data Engineering</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,spark&theme=dark&perline=5" alt="Data Engineering" />
   </p>
 
-  <h3>Analytics & Visualization</h3>
-  
+  <!-- Cloud & DevOps -->
+  <h3>☁️ Cloud & DevOps</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=spark&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins&theme=dark&perline=5" alt="Cloud & DevOps" />
   </p>
 
-  <h3>Languages & Tools</h3>
-  
+  <!-- Tools -->
+  <h3>🛠️ Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" />
-    &nbsp;
-    <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea&theme=dark&perline=5" alt="Tools" />
   </p>
 
 </div>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Glow Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</div>
 
 <br>
 
-<!-- GitHub Stats Section with Glow Effects -->
+<!-- GitHub Stats Dashboard -->
 <div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats" />
+    &nbsp;GitHub Analytics&nbsp;
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats" />
+  </h2>
+</div>
 
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snehassv&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophies" />
+</div>
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=snehassv&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
+<br>
 
-  <br><br>
-
-  <!-- Stats Cards with Glow -->
-  <table>
+<!-- Stats Cards Grid -->
+<div align="center">
+  <table width="100%">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=snehassv&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff&ring_color=d1e29d" width="100%" alt="GitHub Stats" />
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=snehassv&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff&ring_color=d1e29d&border_radius=10&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehassv&theme=dark&hide_border=true&background=0a0a0a&stroke=d1e29d&ring=d1e29d&fire=d1e29d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d1e29d&sideLabels=d1e29d&dates=909090" width="100%" alt="GitHub Streak" />
+      <td width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehassv&theme=dark&hide_border=true&background=0a0a0a&stroke=d1e29d&ring=d1e29d&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d1e29d&sideLabels=d1e29d&dates=909090&border_radius=10" width="100%" alt="Streak Stats" />
       </td>
     </tr>
   </table>
-
-  <br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassv&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&text_color=ffffff&langs_count=10" width="60%" alt="Top Languages" />
-
 </div>
-
-<!-- <br>-->
-
-<!-- Animated Divider 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- Featured Projects Section 
+<!-- Top Languages -->
 <div align="center">
-
-  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
-
-  <!-- Project Cards -->
-  <!--<a href="https://github.com/snehassv/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=project-1&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff" width="49%" alt="Project 1" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/snehassv/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=project-2&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff" width="49%" alt="Project 2" />
-  </a>
-
-</div>-->
-
-<!-- <br>-->
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassv&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&text_color=ffffff&langs_count=10&border_radius=10" width="50%" alt="Top Languages" />
+</div>
 
 <br>
 
 <!-- Activity Graph -->
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassv&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=d1e29d&line=d1e29d&point=ffffff&area=true&area_color=d1e29d&radius=10" width="100%" alt="Activity Graph" />
+</div>
 
-  ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Activity Graph
+<br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassv&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=d1e29d&line=d1e29d&point=ffffff&area=true&area_color=d1e29d" width="100%" alt="Activity Graph" />
+<!-- Glow Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</div>
+
+<br>
+
+<!-- Featured Projects -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Projects" />
+    &nbsp;Featured Projects&nbsp;
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Projects" />
+  </h2>
+</div>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/snehassv/realtime-analytics-pipeline">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=realtime-analytics-pipeline&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff&border_radius=10" width="100%" alt="Project 1" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/snehassv/data-warehouse-migration">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=data-warehouse-migration&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff&border_radius=10" width="100%" alt="Project 2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/snehassv/ml-feature-store">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=ml-feature-store&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff&border_radius=10" width="100%" alt="Project 3" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/snehassv/data-quality-framework">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassv&repo=data-quality-framework&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff&border_radius=10" width="100%" alt="Project 4" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Glow Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
+</div>
+
+<br>
+
+<!-- Connect Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect" />
+    &nbsp;Let's Connect&nbsp;
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect" />
+  </h2>
+  
+  <p>
+    <em>Open for collaborations, and data engineering discussions! 🚀</em>
+  </p>
+</div>
+
+<br>
+
+<!-- Social Badges with Glow -->
+<div align="center">
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/snehavarsha" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- Email -->
+  <a href="mailto:snehasriram.contact@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+  &nbsp;
+  <!-- Portfolio -->
+  <a href="https://ssvsneha.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-d1e29d?style=for-the-badge&logo=google-chrome&logoColor=0a0a0a&labelColor=d1e29d" alt="Portfolio" />
+  </a>
 
 </div>
 
 <br>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- Connect Section with Animated Badges -->
+<!-- Status Badges -->
 <div align="center">
-
-  ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
-
-  <p>
-    <em>I'm always open to collaborating on interesting projects and discussing data engineering solutions!</em>
-  </p>
-
-  <br>
-
-  <!-- Animated Social Badges -->
-  <a href="https://linkedin.com/in/snehavarsha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0a66c2" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:snehasriram.contact@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=c71610" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://ssvsneha.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-d1e29d?style=for-the-badge&logo=google-chrome&logoColor=0a0a0a&labelColor=d1e29d&color=b8cc7a" alt="Portfolio" />
-  </a>
-
-  <br><br>
-
-  <!-- Discord/Slack Style Status -->
+  
   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-d1e29d?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0a0a0a" alt="Status" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Maryland-d1e29d?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0a0a0a" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Timezone-EST-d1e29d?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0a0a0a" alt="Timezone" />
 
 </div>
 
@@ -258,24 +293,12 @@ open_to: ["Collaboration", "Full-time Opportunities"]
 
 <!-- Animated Footer -->
 <div align="center">
-
-  <!-- Animated Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d1e29d&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=0a0a0a&animation=twinkling" width="100%" alt="Footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,17&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%98%8A&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" alt="Footer" />
 </div>
 
-<!-- Hidden Metrics -->
+<!-- Hidden Footer Note -->
 <!--
-**snehassv/snehassv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  🎨 Designed with passion for data and code
+  🌟 Star this repo if you like my profile!
+  📧 Feel free to reach out for collaborations
 -->
