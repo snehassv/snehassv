@@ -57,8 +57,7 @@ email: snehasriram.contact@gmail.com
 professional_journey:
   current: "Data Engineer @General Mills"
   previous:
-    - "Data Analyst @General Mills"
-    - "Software Engineer @Cerner"
+    - "Data Engineer @Cerner"
 
 expertise:
   - Building scalable data pipelines
