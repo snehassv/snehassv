@@ -1,0 +1,29 @@
+name: GitHub Profile Summary Cards
+
+# Generates the stat cards as static SVGs committed into this repo, so the
+# README never depends on a third-party service being up at page-load time.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - fix/self-hosted-profile-cards
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: ${{ github.ref_name }}
+          UTC_OFFSET: -5
+          THEME: "github_dark"
+          AUTO_PUSH: true
