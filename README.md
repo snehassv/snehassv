@@ -151,7 +151,7 @@ open_to: ["Collaboration", "Full-time Opportunities"]
   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=snehassv&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehassv&theme=github_dark" width="100%" alt="Profile Summary" />
 
   <br><br>
 
@@ -159,10 +159,10 @@ open_to: ["Collaboration", "Full-time Opportunities"]
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=snehassv&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&icon_color=d1e29d&text_color=ffffff&ring_color=d1e29d" width="100%" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehassv&theme=github_dark" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehassv&theme=dark&hide_border=true&background=0a0a0a&stroke=d1e29d&ring=d1e29d&fire=d1e29d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d1e29d&sideLabels=d1e29d&dates=909090" width="100%" alt="GitHub Streak" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehassv&theme=github_dark" width="100%" alt="Repos per Language" />
       </td>
     </tr>
   </table>
@@ -170,7 +170,12 @@ open_to: ["Collaboration", "Full-time Opportunities"]
   <br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassv&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d1e29d&text_color=ffffff&langs_count=10" width="60%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=snehassv&theme=dark&hide_border=true&background=0a0a0a&stroke=d1e29d&ring=d1e29d&fire=d1e29d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d1e29d&sideLabels=d1e29d&dates=909090" width="60%" alt="GitHub Streak" />
+
+  <br>
+
+  <!-- Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehassv&theme=github_dark" width="40%" alt="Most Used Languages" />
 
 </div>
 
@@ -207,9 +212,9 @@ open_to: ["Collaboration", "Full-time Opportunities"]
 <!-- Activity Graph -->
 <div align="center">
 
-  ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Activity Graph
+  ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Commit Activity
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassv&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=d1e29d&line=d1e29d&point=ffffff&area=true&area_color=d1e29d" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snehassv&theme=github_dark&utcOffset=-5" width="40%" alt="Productive Time" />
 
 </div>
 
