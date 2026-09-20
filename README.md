@@ -151,7 +151,7 @@ open_to: ["Collaboration", "Full-time Opportunities"]
   ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
   <!-- GitHub Trophies -->
-  <img src="https://raw.githubusercontent.com/snehassv/snehassv/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Summary" />
+  <img src="https://raw.githubusercontent.com/snehassv/snehassv/profile-cards/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Summary" />
 
   <br><br>
 
@@ -159,10 +159,10 @@ open_to: ["Collaboration", "Full-time Opportunities"]
   <table>
     <tr>
       <td width="50%">
-        <img src="https://raw.githubusercontent.com/snehassv/snehassv/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub Stats" />
+        <img src="https://raw.githubusercontent.com/snehassv/snehassv/profile-cards/profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://raw.githubusercontent.com/snehassv/snehassv/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" alt="Repos per Language" />
+        <img src="https://raw.githubusercontent.com/snehassv/snehassv/profile-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%" alt="Repos per Language" />
       </td>
     </tr>
   </table>
@@ -175,7 +175,7 @@ open_to: ["Collaboration", "Full-time Opportunities"]
   <br>
 
   <!-- Top Languages -->
-  <img src="https://raw.githubusercontent.com/snehassv/snehassv/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="40%" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/snehassv/snehassv/profile-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="40%" alt="Most Used Languages" />
 
 </div>
 
@@ -214,7 +214,7 @@ open_to: ["Collaboration", "Full-time Opportunities"]
 
   ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Commit Activity
 
-  <img src="https://raw.githubusercontent.com/snehassv/snehassv/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="40%" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/snehassv/snehassv/profile-cards/profile-summary-card-output/github_dark/4-productive-time.svg" width="40%" alt="Productive Time" />
 
 </div>
 

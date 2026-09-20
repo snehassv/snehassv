@@ -1,7 +1,9 @@
 name: GitHub Profile Summary Cards
 
-# Generates the stat cards as static SVGs committed into this repo, so the
-# README never depends on a third-party service being up at page-load time.
+# Generates the stat cards as static SVGs and commits them to the
+# profile-cards branch, so the README never depends on a third-party
+# service at page-load time and the daily refresh never lands on main
+# (which would put a bot commit on the contribution graph every day).
 on:
   schedule:
     - cron: "0 3 * * *"
@@ -23,7 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: ${{ github.ref_name }}
+          BRANCH_NAME: "profile-cards"
           UTC_OFFSET: -5
           THEME: "github_dark"
           AUTO_PUSH: true
