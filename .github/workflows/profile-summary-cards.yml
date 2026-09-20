@@ -1,0 +1,35 @@
+name: GitHub Profile Summary Cards
+
+# Generates the stat cards as static SVGs and commits them to the
+# profile-cards branch, so the README never depends on a third-party
+# service at page-load time and the daily refresh never lands on main
+# (which would put a bot commit on the contribution graph every day).
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - fix/self-hosted-profile-cards
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      # Check out the card branch itself: the action commits to whatever
+      # branch is checked out, regardless of BRANCH_NAME.
+      - uses: actions/checkout@v4
+        with:
+          ref: profile-cards
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "profile-cards"
+          UTC_OFFSET: -5
+          THEME: "github_dark"
+          AUTO_PUSH: true
