@@ -241,7 +241,7 @@ open_to: ["Collaboration", "Full-time Opportunities"]
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0a66c2" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:snehasriram.contact@gmail.com" target="_blank">
+  <a href="mailto:snehasriram284@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=c71610" alt="Email" />
   </a>
   &nbsp;
