@@ -50,9 +50,9 @@
 
 ```yaml
 name: Sneha Sriram
-role: Data Engineer
+role: Data Engineer II
 location: Maryland, USA
-email: snehasriram.contact@gmail.com
+email: snehasriram284@gmail.com
 
 professional_journey:
   current: "Data Engineer @General Mills"
